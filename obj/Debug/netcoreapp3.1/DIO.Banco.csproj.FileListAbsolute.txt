@@ -1,0 +1,12 @@
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\bin\Debug\netcoreapp3.1\DIO.Banco.exe
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\bin\Debug\netcoreapp3.1\DIO.Banco.deps.json
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\bin\Debug\netcoreapp3.1\DIO.Banco.runtimeconfig.json
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\bin\Debug\netcoreapp3.1\DIO.Banco.runtimeconfig.dev.json
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\bin\Debug\netcoreapp3.1\DIO.Banco.dll
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\bin\Debug\netcoreapp3.1\DIO.Banco.pdb
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\obj\Debug\netcoreapp3.1\DIO.Banco.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\obj\Debug\netcoreapp3.1\DIO.Banco.AssemblyInfo.cs
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\obj\Debug\netcoreapp3.1\DIO.Banco.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\obj\Debug\netcoreapp3.1\DIO.Banco.dll
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\obj\Debug\netcoreapp3.1\DIO.Banco.pdb
+C:\Users\Washington\Documents\DIO\Criando uma aplicacao de transferencia bancarias com net\TransferenciaBancaria\obj\Debug\netcoreapp3.1\DIO.Banco.genruntimeconfig.cache
